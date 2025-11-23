@@ -1,0 +1,18 @@
+.card-news {
+    display: flex;
+    flex-direction: column;
+    width: none;
+    padding: 20px;
+    font-size: 12px;
+    border-bottom: 1px solid #ececec;
+    gap: 1px;
+}
+.ntitle {
+    font-weight: 700;
+    color: #000000;
+}
+.ndate,
+.ncategory {
+    font-size: 10px;
+    color: #808080;
+}

@@ -1,0 +1,8 @@
+.categories {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    color: #000;
+    margin: 20px auto;
+    justify-items: center;
+    row-gap: 15px;
+}

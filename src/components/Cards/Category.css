@@ -1,0 +1,10 @@
+.ccategory {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 140px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
